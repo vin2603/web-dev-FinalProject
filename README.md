@@ -9,4 +9,4 @@ https://www.youtube.com/watch?v=749ta0nvj8s&t=202s
 
 # Deployment
 
-I couldnt get the website to deploy it kept saying DNS failed for some reason.
+https://vin2603.github.io/web-dev-FinalProject/
